@@ -12,3 +12,4 @@ Rough notes
 =====================================================
 * Content about new feature.
 
+equation :math:`x = x + 1`
