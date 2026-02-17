@@ -12,3 +12,5 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+   new-feature.rst
+
